@@ -1,4 +1,4 @@
-开发者资源网站
+##awesome-list
 * []() - 
 * [free-for](https://free-for.dev//) - 开发者的免费资源
 
@@ -13,3 +13,5 @@
 
 * [icons8](https://icons8.com/icons) - 实用的设计资源库
 
+##blog
+* [davidwalsh](https://davidwalsh.name/)
