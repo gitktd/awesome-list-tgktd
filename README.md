@@ -49,9 +49,21 @@ https://github.com/topics/awesome-list
 ### blog
 * [coderscat](https://coderscat.com/) -
 * [davidwalsh](https://davidwalsh.name/)
- 
-* []() - 
-* []() - 
+
+### webring
+* [kognise](https://overengineering.kognise.dev/) 
+* []()  
+* []()  
+* []()  
+* []()  
+* []()  
+* []() 
+* []()  
+* []()  
+* []() 
+* []()  
+* []()  
+* []() 
 * []() - 
 * []() - 
 * []() - 
