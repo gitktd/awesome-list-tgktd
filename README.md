@@ -47,9 +47,9 @@ https://github.com/topics/awesome-list
 * [icons8](https://icons8.com/icons) - 实用的设计资源库
 
 ### blog
-* [coderscat](https://coderscat.com/) -
-* [davidwalsh](https://davidwalsh.name/)
-
+* [coderscat](https://coderscat.com/) 
+* [davidwalsh](https://davidwalsh.name/) 
+* [pawelcislo](https://pawelcislo.com/)  
 ### webring
 * [kognise](https://overengineering.kognise.dev/) 
 * []()  
