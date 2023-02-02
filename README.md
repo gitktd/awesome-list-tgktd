@@ -1,8 +1,7 @@
 ### awesome-list
 * [awesome-lis](https://github.com/topics/awesome-list) - Github awesome-list | 更多网站资源
 * [free-for](https://free-for.dev//) - 开发者的免费资源
-
-* []() - 
+* [ossinsight](https://ossinsight.io/explore/) - 开源项目洞察力
 * []() - 
 * []() - 
 * []() - 
