@@ -57,7 +57,9 @@ https://github.com/topics/awesome-list
 ### blog
 * [coderscat](https://coderscat.com/) 
 * [davidwalsh](https://davidwalsh.name/) 
-* [pawelcislo](https://pawelcislo.com/)  
+* [pawelcislo](https://pawelcislo.com/) 
+* [kickscondor](https://www.kickscondor.com/)  
+
 ### webring
 * [kognise](https://overengineering.kognise.dev/) 
 
@@ -65,7 +67,7 @@ https://github.com/topics/awesome-list
 * [Mastodon Blog](https://blog.joinmastodon.org/) - Mastodon 官方博客
 * [Mastodon social](https://instances.social/)- Mastodon 服务器
 
-* []()  
+
 * []()  
 * []() 
 * []()  
