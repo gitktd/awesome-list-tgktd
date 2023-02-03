@@ -1,6 +1,6 @@
 
 ### awesome-list
-一直在建设中| been under construction  2023-2-2~&&&
+一直在建设中| been under construction  2023-2-2~&&& 
 * [github awsome](https://github.com/sindresorhus/awesome) - awesome-list 
 * [roadmap](https://github.com/kamranahmedse/developer-roadmap) - 编程路线图
 * [awesome-lis](https://github.com/topics/awesome-list) - Github awesome-list | 更多资源
@@ -70,8 +70,8 @@ https://github.com/topics/awesome-list
 * [Mastodon social](https://instances.social/)- Mastodon 服务器
 
 
-
-* []() 
+### NEW
+* [buzzing](https://i.buzzing.cc/hn/tags/show-hn/) - 聚合新闻
 * []()  
 * []()  
 * []() 
