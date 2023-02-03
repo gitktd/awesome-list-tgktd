@@ -1,7 +1,7 @@
 
 ### awesome-list
 一直在建设中| been under construction  2023-2-2~&&&
-* [github awsome](https://github.com/sindresorhus/awesome) 
+* [github awsome](https://github.com/sindresorhus/awesome) - awesome-list 
 * [awesome-lis](https://github.com/topics/awesome-list) - Github awesome-list | 更多资源
 * [free-for](https://free-for.dev//) - 开发者的免费资源
 * [ossinsight](https://ossinsight.io/explore/) - 开源项目洞察力
@@ -21,7 +21,7 @@
 * []() - 
 * []() - 
 * []() - 
-* []() - 
+
 * []() - 
 * []() - 
 * []() - 
@@ -58,7 +58,7 @@ https://github.com/topics/awesome-list
 
 ### Mastodon
 * [Mastodon Blog](https://blog.joinmastodon.org/) - Mastodon 官方博客
-* []()  
+* [Mastodon social](https://instances.social/)- Mastodon 服务器
 * []()  
 * []()  
 * []()  
@@ -75,7 +75,8 @@ https://github.com/topics/awesome-list
 * []() - 
 * []() - 
 * []() - 
-* []() - 
+### 技术
+* [Hacker News](https://news.ycombinator.com/news) - ycombinator
 * []() - 
 * []() - 
 * []() - 
