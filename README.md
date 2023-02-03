@@ -54,6 +54,8 @@ https://github.com/topics/awesome-list
 
 ### 设计
 * [icons8](https://icons8.com/icons) - 实用的设计资源库
+* [anyway](https://anyway.fm/now/) - 安妮薇看看
+
 ### blog
 * [coderscat](https://coderscat.com/) 
 * [davidwalsh](https://davidwalsh.name/) 
@@ -68,7 +70,7 @@ https://github.com/topics/awesome-list
 * [Mastodon social](https://instances.social/)- Mastodon 服务器
 
 
-* []()  
+
 * []() 
 * []()  
 * []()  
