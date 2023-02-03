@@ -1,13 +1,14 @@
 
 ### awesome-list
 一直在建设中| been under construction  2023-2-2~&&&
+* [github awsome](https://github.com/sindresorhus/awesome) 
 * [awesome-lis](https://github.com/topics/awesome-list) - Github awesome-list | 更多资源
 * [free-for](https://free-for.dev//) - 开发者的免费资源
 * [ossinsight](https://ossinsight.io/explore/) - 开源项目洞察力
 * [git简明指南](https://rogerdudler.github.io/git-guide/index.zh.html)
 * [Markdown 基本语法](https://younghz.github.io/Markdown/) 
-* []() - 
-* []() - 
+*  
+* 
 * []() - 
 * []() - 
 * []() - 
