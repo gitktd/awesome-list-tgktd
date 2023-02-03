@@ -76,11 +76,13 @@ https://github.com/topics/awesome-list
 * []() - 
 * []() - 
 * []() - 
-* []() - 
+
 
 ### 教程
 ### web3
 * [blockchain](https://www.blockchain.com/) 
+* [mirror](https://mirror.xyz/) - 镜
+
 
 ### Linux
 * [kali](https://www.kali.org/) 
