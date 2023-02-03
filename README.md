@@ -72,7 +72,7 @@ https://github.com/topics/awesome-list
 
 ### NEW
 * [buzzing](https://i.buzzing.cc/hn/tags/show-hn/) - 聚合新闻
-* []()  
+* [阮一峰](https://www.ruanyifeng.com/blog/) - 科技爱好者周刊
 * []()  
 * []() 
 * []()  
