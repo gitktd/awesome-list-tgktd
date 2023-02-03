@@ -80,7 +80,7 @@ https://github.com/topics/awesome-list
 ### web3
 ### Linux
 ### 编程
-### 软件猎手
+
 ### telegram
 ### 
 ### 论坛
