@@ -55,7 +55,9 @@ https://github.com/topics/awesome-list
 * [pawelcislo](https://pawelcislo.com/)  
 ### webring
 * [kognise](https://overengineering.kognise.dev/) 
-* []()  
+
+### Mastodon
+* [Mastodon Blog](https://blog.joinmastodon.org/) - Mastodon 官方博客
 * []()  
 * []()  
 * []()  
