@@ -79,6 +79,14 @@ https://github.com/topics/awesome-list
 ### 教程
 ### web3
 ### Linux
+* [kali](https://www.kali.org/) 
+* []() 
+* []() 
+* []() 
+* []() 
+* []() 
+* []() 
+
 ### 编程
 
 ### telegram
