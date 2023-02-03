@@ -47,6 +47,8 @@
 https://github.com/topics/awesome-list
 * [cman](https://webparts.cman.jp/) - 在线生成CSS部件パーツ作成メニュー
 * [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly) 
+### 后端
+* [Django](https://www.djangoproject.com/) - Django
 
 ### 设计
 * [icons8](https://icons8.com/icons) - 实用的设计资源库
@@ -60,7 +62,7 @@ https://github.com/topics/awesome-list
 ### Mastodon
 * [Mastodon Blog](https://blog.joinmastodon.org/) - Mastodon 官方博客
 * [Mastodon social](https://instances.social/)- Mastodon 服务器
-* []()  
+
 * []()  
 * []()  
 * []() 
