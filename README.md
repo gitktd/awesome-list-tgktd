@@ -115,7 +115,7 @@ https://github.com/topics/awesome-list
 * [solidot](https://t.me/solidot) - 中文solidot.org 推送频道
 * [LoopDNS](https://t.me/DNSPODT) - LoopDNS 综合资讯---简洁，及时，快速，准确
 
-* [Awesome_Tools](https://t.me/Awesome_Tools) - Awesome_Tools 电报工具推荐 
+* [Awesome_Tools](https://t.me/Awesome_Tools) - Awesome_Tools 
 * [appinnfeed](https://t.me/appinnfeed) - 实用软件推荐
 * [anime_news](https://t.me/anime_news) - 最新动漫资讯
 * [涅普涅普的动画仓库](https://t.me/AnimeNep) - telegram在线看新番
