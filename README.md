@@ -102,7 +102,14 @@ https://github.com/topics/awesome-list
 
 ### 编程
 
-### telegram
+### telegram  
+* [durov](https://t.me/durov) 
+* [durov_russia](https://t.me/durov_russia) 
+* [solidot](https://t.me/solidot) - 中文solidot.org 推送频道
+* [LoopDNS](https://t.me/DNSPODT) - LoopDNS 综合资讯---简洁，及时，快速，准确
+* [anime_news](https://t.me/anime_news) - 最新动漫资讯
+* [Awesome_Tools](https://t.me/Awesome_Tools) - Awesome_Tools 电报工具推荐 
+* [appinnfeed](https://t.me/appinnfeed) - 实用软件推荐
 ### 
 ### 论坛
 * [Hacker News](https://news.ycombinator.com/news) - ycombinator
