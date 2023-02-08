@@ -129,6 +129,8 @@ https://github.com/topics/awesome-list
 ### github
 * [Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web)  
 
+### ACG
+* [paradisearmy](https://www.paradisearmy.com/doujin/pasok_doujin.htm) -「同人」どうじん/ どうにん
 ### 开拓性项目
 
 * [wiki](https://www.wikipedia.org/) - wiki
