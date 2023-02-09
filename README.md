@@ -1,3 +1,6 @@
+### 利器
+建议先安装此扩展快速打开多个网站超链接
+* [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) - 同时打开、复制或添加书签多个链接。
 
 
 ### awesome-list  | 更多资源
