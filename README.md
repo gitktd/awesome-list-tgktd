@@ -1,7 +1,7 @@
 
 
 ### awesome-list  | 更多资源
-一直在建设中| been under construction  2023-2-2~&&& 
+一直在建设中|索引list非排名 links been under construction  2023-2-2~&&& 
 * [github awsome](https://github.com/sindresorhus/awesome) - awesome-list 
 * [awesome-lis](https://github.com/topics/awesome-list) - Github awesome-list
 * [free-for](https://free-for.dev//) - 开发者的免费资源
@@ -29,7 +29,9 @@
 * [coderscat](https://coderscat.com/) 
 * [davidwalsh](https://davidwalsh.name/) 
 * [pawelcislo](https://pawelcislo.com/) 
-* [kickscondor](https://www.kickscondor.com/)  
+* [kickscondor](https://www.kickscondor.com/)
+* [数字花园](https://maggieappleton.com/garden-history) 
+  
 ### webring
 * [kognise](https://overengineering.kognise.dev/) 
 ### Mastodon
