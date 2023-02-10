@@ -1,8 +1,10 @@
 ### 利器
 建议先安装此扩展快速打开多个网站超链接
 * [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) - 同时打开、复制或添加书签多个链接。
-
-
+* []() - 
+* []() - 
+* []() -
+* []() -
 ### awesome-list  | 更多资源
 一直在建设中|索引list非排名 links been under construction  2023-2-2~&&& 
 * [github awsome](https://github.com/sindresorhus/awesome) - awesome-list 
@@ -14,6 +16,8 @@
 ### 前端
 * [web dev](https://web.dev/) 
 * [codepen](https://codepen.io/) - 在线交互式前端
+* [hugo](https://gohugo.io/) - Hugo是最受欢迎的一个开放源码静态网站的发电机
+* [jekyllrb](https://jekyllrb.com/) - 将纯文本转换为静态网站和博客
 * [tympanus](https://tympanus.net/codrops/) - 创意前端资源
 * [css-doodle](https://css-doodle.com/) - 用于使用 CSS 绘制图案的 Web 组件
 * [purecss.CSS](https://purecss.io/) - 响应式CSS CDN
