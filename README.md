@@ -51,7 +51,7 @@
 * [wangdoc](https://wangdoc.com/) - 网道
 * [git简明指南](https://rogerdudler.github.io/git-guide/index.zh.html)
 * [Markdown 基本语法](https://younghz.github.io/Markdown/) 
-* [菜鸟教程](https://www.runoob.com/) - 菜鸟能用到当全栈工程师
+* [菜鸟教程](https://www.runoob.com/) - 菜鸟-学编程新人必备
 * [Github指南](https://www.yangzhiping.com/tech/github.html) - 指明了如何高效用github
 * []() - 
 ### web3
