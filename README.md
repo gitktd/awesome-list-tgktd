@@ -2,7 +2,7 @@
 建议先安装此扩展快速打开多个网站超链接
 * [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) - 同时打开、复制或添加书签多个链接。
 * [Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - 使用 Google 或 Yandex 实时翻译网页。 （强烈推荐）
-* []() - 
+* [producthunt](https://www.producthunt.com/) - 每日最新生产力，创新产品
 * []() -
 * []() -
 ### awesome-list  | 更多资源
