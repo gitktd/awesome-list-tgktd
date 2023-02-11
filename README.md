@@ -26,7 +26,7 @@
 * [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly) 
 ### 后端
 * [nginx](https://nginx.org/en/download.html) - 总之非常流行
-* []() -
+
 
 * [Django](https://www.djangoproject.com/) - Django
 ### 设计
@@ -56,6 +56,7 @@
 * [Markdown 基本语法](https://younghz.github.io/Markdown/) 
 * [菜鸟教程](https://www.runoob.com/) - 菜鸟-学编程新人必备
 * [Github指南](https://www.yangzhiping.com/tech/github.html) - 指明了如何高效用github
+* [node入门](https://www.nodebeginner.org/index-zh-cn.html) - 中文在线学node
 * []() - 
 ### web3
 * [blockchain](https://www.blockchain.com/) 
