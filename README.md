@@ -25,6 +25,9 @@
 * [cman](https://webparts.cman.jp/) - 在线生成CSS部件パーツ作成メニュー
 * [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly) 
 ### 后端
+* [nginx](https://nginx.org/en/download.html) - 总之非常流行
+* []() -
+
 * [Django](https://www.djangoproject.com/) - Django
 ### 设计
 * [icons8](https://icons8.com/icons) - 实用的设计资源库
