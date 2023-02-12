@@ -66,6 +66,7 @@
 * [mirror](https://mirror.xyz/) - 镜
 ### 编程
 ### telegram  
+* [汉化](https://t.me/zh_CN) - telegram汉化包（中文简体）
 * [durov](https://t.me/durov) 
 * [durov_russia](https://t.me/durov_russia) 
 * [solidot](https://t.me/solidot) - 中文solidot.org 推送频道
