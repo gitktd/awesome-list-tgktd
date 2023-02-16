@@ -7,7 +7,7 @@
 * [LibHunt](https://www.libhunt.com/ssg) - 软件库类似和替代项目
 
 ### awesome-list  | 更多资源
-一直在建设中|索引list非排名 links been under construction  2023-2-2~&&& 
+时不时可能更新|索引list非排名 links been under construction  2023-2-2~&&& 
 * [github awsome](https://github.com/sindresorhus/awesome) - awesome-list 
 * [awesome-lis](https://github.com/topics/awesome-list) - Github awesome-list
 * [free-for](https://free-for.dev//) - 开发者的免费资源
@@ -60,7 +60,7 @@
 * [菜鸟教程](https://www.runoob.com/) - 菜鸟-学编程新人必备
 * [Github指南](https://www.yangzhiping.com/tech/github.html) - 指明了如何高效用github
 * [node入门](https://www.nodebeginner.org/index-zh-cn.html) - 中文在线学node
-* []() - 
+* [markdown交互式教程](https://github.com/gjtorikian/markdowntutorial.com) 
 ### web3
 * [blockchain](https://www.blockchain.com/) 
 * [mirror](https://mirror.xyz/) - 镜
