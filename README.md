@@ -87,7 +87,7 @@
 * [paradisearmy](https://www.paradisearmy.com/doujin/pasok_doujin.htm) -「同人」どうじん/ どうにん
 * [STUDIO4℃](https://www.studio4c.co.jp/) 
 * [comiket](https://www.comiket.co.jp/) 
-* []() - 
+* [crunchyroll](https://www.crunchyroll.com/) - 美国著名追番网站，ai告诉我叫CR，类似b站
 
 ### 开拓性项目
 * [wiki](https://www.wikipedia.org/) - wiki
